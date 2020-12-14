@@ -5,6 +5,6 @@ All problems: The efficient use of lists, functions, including ones that I have 
 
 Problems 10, 19, 22 and 24: The use of pre installed modules in Python's standard library, including math, datetime, csv, itertools.
 
-Problem 15: The use of list as 2D plan, using each item as coordinates to solve the correspondent problem.
+Problem 15 and 31: The use of list as 2D plan, using each item as coordinates to solve the correspondent problem.
 
 Problem 22: Understanding and manipulating data in the csv format and getting the correct answer from it.
